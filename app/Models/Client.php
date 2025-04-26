@@ -7,8 +7,12 @@ use Illuminate\Database\Eloquent\Model;
 class Client extends Model
 {
     //  
+    protected $fillable = [
+        'id', 'client_name', 'sex', 'age', 'telephone'
+    ];
+    
+   
 
-    protected $fillable = ['client_name'];
 
     public function programs()
     {

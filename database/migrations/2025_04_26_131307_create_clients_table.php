@@ -11,14 +11,22 @@ return new class extends Migration
      */
     
 
-        public function up()
+      
+    public function up()
 {
     Schema::create('clients', function (Blueprint $table) {
         $table->id();
         $table->string('client_name');
+        $table->enum('sex', ['Male', 'Female', ]);
+        $table->integer('age');
+        $table->string('telephone');
+        $table->timestamp('clients_id')->useCurrent(); // special ID = timestamp
         $table->timestamps();
     });
+    
 }
+
+
 
     
 

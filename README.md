@@ -48,6 +48,6 @@ php artisan migrate
 
 6. **Start the server**
 php artisan serve
-Access the app
+7. **Access the app**
 Visit http://localhost:8000
 
