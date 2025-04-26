@@ -75,6 +75,9 @@ Example response:
 
 Testing
 
+**Power POint Presentation**
+https://docs.google.com/presentation/d/1PEIcariiv7tAR4hVJWXyJ94XUrACScqP0LbFDZgy9Xc/edit?usp=sharing
+
 **Demo video**
 https://drive.google.com/file/d/15eyJ47x6I9C9l9jCLVz56bDXKt1v3iHC/view?usp=sharing
 
