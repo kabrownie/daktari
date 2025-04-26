@@ -12,7 +12,7 @@ Built using **Laravel** and **Blade UI**.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - `/app/Models/` — Models for Client and Program
 - `/app/Http/Controllers/` — Controllers for handling logic
@@ -22,7 +22,7 @@ Built using **Laravel** and **Blade UI**.
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. **Clone the repository**
    ```bash
@@ -52,7 +52,7 @@ php artisan serve
 Visit http://localhost:8000
 
 
-**API Endpoint**
+## API Endpoint
 
 Access client data through API:
 
@@ -73,16 +73,16 @@ Example response:
 }
 
 
-#Testing
+## Testing
 
-**Power POint Presentation**
+### Power POint Presentation
 https://docs.google.com/presentation/d/1PEIcariiv7tAR4hVJWXyJ94XUrACScqP0LbFDZgy9Xc/edit?usp=sharing
 
-**Demo video**
+### Demo video**
 https://drive.google.com/file/d/15eyJ47x6I9C9l9jCLVz56bDXKt1v3iHC/view?usp=sharing
 
 
 
-Author
+### Author
 
 Kevin Karanja Makono
