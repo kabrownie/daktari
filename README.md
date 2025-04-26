@@ -51,3 +51,35 @@ php artisan serve
 7. **Access the app**
 Visit http://localhost:8000
 
+
+**API Endpoint**
+
+Access client data through API:
+
+GET /api/clients/{id}
+
+Example response:
+
+{
+  "id": "CL-20250426-192234",
+  "client_name": "John Doe",
+  "sex": "Male",
+  "age": 25,
+  "telephone": "0712345678",
+  "programs": [
+    {"id": 1, "program_name": "TB"},
+    {"id": 2, "program_name": "HIV"}
+  ]
+}
+
+
+Testing
+
+**Demo video**
+https://drive.google.com/file/d/15eyJ47x6I9C9l9jCLVz56bDXKt1v3iHC/view?usp=sharing
+
+
+
+Author
+
+Kevin Karanja Makono
