@@ -60,6 +60,7 @@ GET /api/clients/{id}
 
 Example response:
 
+ ```bash
 {
   "id": "CL-20250426-192234",
   "client_name": "John Doe",
@@ -71,6 +72,8 @@ Example response:
     {"id": 2, "program_name": "HIV"}
   ]
 }
+````
+
 
 
 ## Testing
